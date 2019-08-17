@@ -1,5 +1,6 @@
 @import "bootstrap";
 
+
 .clear {
   clear: both;
 }
@@ -49,4 +50,14 @@ header {
 
 hr {
   clear:both;
+}
+
+h1 {
+  font-family: 'source_sans_proregular', serif;
+  font-weight: bold;
+  font-size:48px;
+}
+
+h2 {
+  font-family: 'source_sans_proregular', serif;
 }
